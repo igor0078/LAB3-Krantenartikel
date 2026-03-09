@@ -1,0 +1,27 @@
+body{
+    background-color:#c7e1e1;
+    width:800px;
+    margin:auto;
+    font-family:Georgia, serif;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+.links{
+    float:left;
+    margin:20px;
+    border:2px solid black;
+}
+
+.rechts{
+    float:right;
+    margin:20px;
+    border:2px solid black;
+}
+
+p{
+    text-align:justify;
+    margin:10px 0;
+}
